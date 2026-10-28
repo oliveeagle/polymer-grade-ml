@@ -1,0 +1,16 @@
+processes:
+  - id: injection_molding
+    name: injection molding
+    parameters:
+      - melt_temperature_degC
+      - mold_temperature_degC
+      - injection_pressure_MPa
+      - holding_pressure_MPa
+      - cooling_time_s
+  - id: extrusion
+    name: extrusion
+    parameters:
+      - temperature_profile_degC
+      - screw_speed_rpm
+      - throughput_kg_h
+

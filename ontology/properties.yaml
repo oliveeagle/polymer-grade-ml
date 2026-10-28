@@ -1,0 +1,14 @@
+properties:
+  - id: tensile_strength
+    name: tensile strength
+    canonical_unit: MPa
+  - id: tensile_modulus
+    name: tensile modulus
+    canonical_unit: MPa
+  - id: impact_strength
+    name: impact strength
+    canonical_unit: kJ_m2
+  - id: melt_flow_rate
+    name: melt flow rate
+    canonical_unit: g_10min
+

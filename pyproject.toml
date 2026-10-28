@@ -1,0 +1,9 @@
+[project]
+name = "polymer-grade-ml"
+version = "0.1.0"
+description = "Evidence-grounded polymer formulation and processing recommendation"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+

@@ -1,0 +1,7 @@
+# Нормализованные идентификаторы семейств полимеров и их синонимы.
+polymers:
+  - id: PP
+    name: polypropylene
+    synonyms: ["polypropylene", "PP"]
+    grades: []
+
